@@ -1,0 +1,13 @@
+name = "ASEN6519-DMU-LiamProject"
+uuid = "826a0b3c-7d00-418a-a883-7e496bbdf085"
+version = "0.0.1"
+
+[deps]
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+
+[compat]
+julia = "1.1"
+
+[extras]
+
+[targets]
